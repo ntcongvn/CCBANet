@@ -1,8 +1,8 @@
-# CCBANet: Cascading Context and Balancing Attention for Polyp Segmentation
+# CCBANet
 
 ##  Introduction
 
-This repository contains the PyTorch implementation of CCBANet, MICCAI 2021.
+This repository contains the PyTorch implementation of CCBANet,Cascading Context and Balancing Attention for Polyp Segmentation, MICCAI 2021.
 
 ##  Install dependencies
 
